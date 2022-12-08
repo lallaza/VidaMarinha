@@ -35,25 +35,6 @@ ul li a{
     color: white;
     font-size: medium;
 }
-.popup{
-    background: rgba(255, 248, 247, 0.651);
-    position: sticky;
-    z-index: 2;
-    top: 50px;
-    float: left;
-    border-radius: 0px 15px 15px 0px;
-    max-width: 120px;
-    text-decoration: none;
-    color: white;
-}
-section .popup{
-    background-color: rgba(0, 0, 0, 0.425);
-    position: sticky;
-    width: 150px;
-    margin-left: none;
-    margin-right: none;
-    text-decoration: none;
-}
 .vida1{
     color: white;
     font-size: 45px
@@ -75,7 +56,7 @@ iframe.capa {
 }
 p.capa {
     float: left;
-    max-width: 65ch;
+    max-width: 50ch;
     text-align: justify;
     margin-left: 50px;
 }
